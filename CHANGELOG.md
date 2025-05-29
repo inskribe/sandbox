@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/inskribe/sandbox/compare/v3.0.0...v4.0.0) (2025-05-29)
+
+
+### Bug Fixes
+
+* **actions:** fix spelling ([f02ad38](https://github.com/inskribe/sandbox/commit/f02ad38c7d92b460541e8b2619cad51660ab7964))
+
+
+### BREAKING CHANGES
+
+* **actions:** force release
+
 # [3.0.0](https://github.com/inskribe/sandbox/compare/v2.0.0...v3.0.0) (2025-05-29)
 
 
