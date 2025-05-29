@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/inskribe/sandbox/compare/v1.0.1...v2.0.0) (2025-05-29)
+
+
+### chore
+
+* **bump:** trigger bump ([be489c9](https://github.com/inskribe/sandbox/commit/be489c9410bde1e0b5d087177db89a224d5f269b))
+
+
+### BREAKING CHANGES
+
+* **bump:** force new release
+
 ## [1.0.1](https://github.com/inskribe/sandbox/compare/v1.0.0...v1.0.1) (2025-05-29)
 
 
