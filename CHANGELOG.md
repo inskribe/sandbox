@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/inskribe/sandbox/compare/v2.0.0...v3.0.0) (2025-05-29)
+
+
+### Bug Fixes
+
+* **actions:** fix default token persistence ([a2f17d4](https://github.com/inskribe/sandbox/commit/a2f17d4b6093533392e2c0ca60311f3dad0247ac))
+
+
+### BREAKING CHANGES
+
+* **actions:** force new release
+
 # [2.0.0](https://github.com/inskribe/sandbox/compare/v1.0.1...v2.0.0) (2025-05-29)
 
 
