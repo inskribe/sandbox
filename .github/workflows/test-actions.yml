@@ -27,7 +27,6 @@ jobs:
 
       - name: Build Project
         run: |
-          go-version
           go mod tidy
           go build -v -o ./bin/release ./cmd/application/main.go 
 
