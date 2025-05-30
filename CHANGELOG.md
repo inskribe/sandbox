@@ -1,3 +1,19 @@
+# [6.0.0](https://github.com/inskribe/sandbox/compare/v5.0.0...v6.0.0) (2025-05-30)
+
+
+### Bug Fixes
+
+* **scope:** short description ([ff98ac7](https://github.com/inskribe/sandbox/commit/ff98ac724383022be2a31cfb983d96cf1872d8f3))
+* **scope:** title ([11be7ac](https://github.com/inskribe/sandbox/commit/11be7ace89782ffb98113a9da9cba2dce2385dea))
+* **workflows:** fix ([b96bf4f](https://github.com/inskribe/sandbox/commit/b96bf4f7e5980c3b2abe19f3e7e7fabae646bf68))
+
+
+### BREAKING CHANGES
+
+* **scope:** force
+* **scope:** describe the breaking change
+* **workflows:** force release
+
 # [5.0.0](https://github.com/inskribe/sandbox/compare/v4.0.0...v5.0.0) (2025-05-30)
 
 
