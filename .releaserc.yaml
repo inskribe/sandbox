@@ -13,4 +13,4 @@ plugins:
   - '@semantic-release/changelog'
   - '@semantic-release/github'
   -   - '@semantic-release/git'
-      - assets: [CHANGELOG.md, bin/release]
+      - assets: [CHANGELOG.md, ./dist/RicePaper]
