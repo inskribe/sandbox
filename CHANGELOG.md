@@ -1,3 +1,19 @@
+# [5.0.0](https://github.com/inskribe/sandbox/compare/v4.0.0...v5.0.0) (2025-05-30)
+
+
+### Bug Fixes
+
+* **semantic:** fix output dir ([e257ad8](https://github.com/inskribe/sandbox/commit/e257ad8883be74a0f5cd587dee7eb2f6d9815e82))
+* **workflows:** fix node version ([5a99b2a](https://github.com/inskribe/sandbox/commit/5a99b2a938a374d99fab3e66c514ead848b0edbb))
+* **workflows:** short description ([56e612b](https://github.com/inskribe/sandbox/commit/56e612bfb44fd7882674611c70068b8b7dc8423e))
+
+
+### BREAKING CHANGES
+
+* **workflows:** force new release
+* **workflows:** force new release
+* **semantic:** force a new releace
+
 # [4.0.0](https://github.com/inskribe/sandbox/compare/v3.0.0...v4.0.0) (2025-05-29)
 
 
