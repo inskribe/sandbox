@@ -1,3 +1,15 @@
+# [10.0.0](https://github.com/inskribe/sandbox/compare/v9.0.0...v10.0.0) (2025-05-31)
+
+
+### Bug Fixes
+
+* **scope:** short description ([fd1fe93](https://github.com/inskribe/sandbox/commit/fd1fe93e99d652912b7369f782764100de5c65dd))
+
+
+### BREAKING CHANGES
+
+* **scope:** describe the breaking change
+
 # [9.0.0](https://github.com/inskribe/sandbox/compare/v8.0.0...v9.0.0) (2025-05-31)
 
 
