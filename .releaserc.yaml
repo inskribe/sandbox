@@ -12,6 +12,16 @@ plugins:
   - '@semantic-release/release-notes-generator'
   - '@semantic-release/changelog'
   -   - '@semantic-release/github'
-      - assets: [bin/RicePaper]
+      - assets:
+          - path: artifacts/RicePaper-linux-amd64.tar.gz
+            label: Linux x86_64
+          - path: artifacts/RicePaper-linux-arm64.tar.gz
+            label: Linux ARM64
+          - path: artifacts/RicePaper-darwin-amd64.tar.gz
+            label: macOS Intel
+          - path: artifacts/RicePaper-darwin-arm64.tar.gz
+            label: macOS Apple Silicon
+          - path: artifacts/RicePaper-windows-amd64.zip
+            label: Windows x86_64
   -   - '@semantic-release/git'
       - assets: [CHANGELOG.md]
