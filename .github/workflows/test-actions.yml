@@ -35,7 +35,7 @@ jobs:
       - name: Archive
         run: |
           mkdir -p release
-          cp cp RicePaper-linux-${{ matrix.arch }} README.md application_config.yml release/
+          cp RicePaper-linux-${{ matrix.arch }} README.md application_config.yml release/
           tar -czvf $BINARY_NAME.tar.gz -C release .
 
       - name: Upload
