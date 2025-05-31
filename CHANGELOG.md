@@ -1,3 +1,19 @@
+# [8.0.0](https://github.com/inskribe/sandbox/compare/v7.0.0...v8.0.0) (2025-05-31)
+
+
+### Bug Fixes
+
+* **scope:** short description ([0717fcf](https://github.com/inskribe/sandbox/commit/0717fcfa572cf91e71aad42aafa01a4da81cc5f7))
+* **scope:** short description ([fc02d7e](https://github.com/inskribe/sandbox/commit/fc02d7eb9ed5b83ca3b028edb067d33b9ff03314))
+* title ([ad96cb9](https://github.com/inskribe/sandbox/commit/ad96cb95fb68081e0e6e1f72f08974363a95b307))
+
+
+### BREAKING CHANGES
+
+* **scope:** describe the breaking change
+* **scope:** describe the breaking change
+* force
+
 # [7.0.0](https://github.com/inskribe/sandbox/compare/v6.0.0...v7.0.0) (2025-05-31)
 
 
