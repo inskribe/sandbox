@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        arch: [amd64]
+        arch: [amd64, arm64]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,7 +35,7 @@ jobs:
       - name: Archive
         run: |
           mkdir -p release
-          cp $BINARY_NAME application_config.yml README.md release/
+          cp cp RicePaper-linux-${{ matrix.arch }} README.md application_config.yml release/
           tar -czvf $BINARY_NAME.tar.gz -C release .
 
       - name: Upload
