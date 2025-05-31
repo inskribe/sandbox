@@ -13,9 +13,9 @@ plugins:
   - '@semantic-release/changelog'
   -   - '@semantic-release/github'
       - assets:
-          - path: artifacts/RicePaper-linux-amd64.tar.gz
+          - path: artifacts/RicePaper-linux-amd64/RicePaper-linux-amd64.tar.gz
             label: Linux x86_64
-          - path: artifacts/RicePaper-linux-arm64.tar.gz
+          - path: artifacts/RicePaper-linux-arm64/RicePaper-linux-arm64.tar.gz
             label: Linux ARM64
   -   - '@semantic-release/git'
       - assets: [CHANGELOG.md]
