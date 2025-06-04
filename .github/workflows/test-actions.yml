@@ -62,9 +62,6 @@ jobs:
         with:
           path: artifacts
 
-      - name: List downloaded files
-        run: ls -R artifacts
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:

@@ -3,6 +3,7 @@ branches:
   - name: master
   - name: beta
     prerelease: true
+
 repositoryUrl: https://github.com/inskribe/sandbox.git
 
 tagFormat: v${version}
