@@ -1,9 +1,11 @@
 ---
 name: Release
 run-name: Release Action
+
 on:
   push:
-    branches: [master, beta]
+    branches: [master, next]
+
 permissions:
   contents: read
 
