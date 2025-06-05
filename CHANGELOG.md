@@ -1,3 +1,10 @@
+# [10.1.0](https://github.com/inskribe/sandbox/compare/v10.0.1...v10.1.0) (2025-06-05)
+
+
+### Features
+
+* **ci:** commit lininting ([854bd12](https://github.com/inskribe/sandbox/commit/854bd12d44451e5d4b605dc8515b295903435c18))
+
 ## [10.0.1](https://github.com/inskribe/sandbox/compare/v10.0.0...v10.0.1) (2025-06-05)
 
 
