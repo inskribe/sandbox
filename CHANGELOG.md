@@ -1,3 +1,10 @@
+## [10.0.1](https://github.com/inskribe/sandbox/compare/v10.0.0...v10.0.1) (2025-06-05)
+
+
+### Bug Fixes
+
+* **ci:** pr validation ([558db62](https://github.com/inskribe/sandbox/commit/558db62f636c7b3310f5dcc47738d39180f2b427))
+
 # [10.0.0](https://github.com/inskribe/sandbox/compare/v9.0.0...v10.0.0) (2025-05-31)
 
 
